@@ -5,4 +5,4 @@
 
 
 
-https://discordapp.com/api/guilds/492804894991056897/widget.json
+https://discord.gg/Qw9qWhv
